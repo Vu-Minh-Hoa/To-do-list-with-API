@@ -2,7 +2,7 @@
 
 **NOTE:** The API must be running in order for the finished code to work as intended. Seee "Running the API" below
 
-## Running the starter code
+## Running the application code
 
 The code is located in its own folder. To get it:
 
