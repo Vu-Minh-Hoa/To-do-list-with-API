@@ -1,6 +1,6 @@
 # To do list application
 
-**NOTE:** The API must be running in order for the finished code to work as intended. Seee "Running the API" below
+**NOTE:** The API must be running in order for the finished code to work as intended. See "Running the API" below
 
 ## Running the application code
 
