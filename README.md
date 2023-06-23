@@ -1,4 +1,4 @@
-# To do application that can work with a local API server
+# To do list application
 
 **NOTE:** The API must be running in order for the finished code to work as intended. Seee "Running the API" below
 
